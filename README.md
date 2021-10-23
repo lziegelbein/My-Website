@@ -6,6 +6,6 @@ I am a student at the University of Missouri. I made this website in my INFOTC 1
 You can get around the website using these links.
 
 * [Skills](./skills.md)
-* [Academy Performance](./marks.md)
+* [Graphic Design Work](./logos.md)
 * [Hobbies](./hobby.md)
 * [Code Sample](./code_sample.md)
