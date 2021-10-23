@@ -1,8 +1,8 @@
 # Hobby
 
-I _like_ to visit these sites as hobby-
+I _love_ to spend hours on sites like these:
 
-* [Reddit](https://www.reddit.com)
-* [Twitter](https://www.twitter.com)
+* [Youtube](https://www.youtube.com)
+* [Netflix](https://www.netflix.com/browse)
 
 [return to home](./README.md)
