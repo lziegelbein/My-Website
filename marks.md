@@ -1,14 +1,8 @@
-# Academy Performance
+# Graphic Design
 
-## My marks-
+## My work in INFOTC 1610
 
-| test | Maths | C language |
-| ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
-
-## Certificates
+# Logos
 
 ![Certificate 1](https://github.com/username/image.png)
 
