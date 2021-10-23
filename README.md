@@ -1,5 +1,5 @@
 # Home Page
-## Welcome, I am Lucas Ziegelbein.
+## Hello there, I'm Lucas Ziegelbein.
 
 I am a student at the University of Missouri. I made this website in my INFOTC 1000 class.
 
