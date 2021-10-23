@@ -1,6 +1,6 @@
 # Code Sample
 
-Some of code sample written by me
+I made this code!
 
 ### HTML
 ```html
