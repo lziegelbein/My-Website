@@ -9,5 +9,6 @@
 
 <img width="473" alt="Asset 2@2x" src="https://user-images.githubusercontent.com/93022762/138541789-42ab45ec-1450-4b93-8f3d-1a63d6abb0ce.png">
 
-<img width ="400" alt="picture" src="https://github.com/lziegelbein/My-Website/blob/main/bruh.png">
+https://github.com/lziegelbein/My-Website/blob/main/bruh.png
+
 [return to home](./README.md)
